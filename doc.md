@@ -15,3 +15,5 @@ git 是管理修改的
 远程
 git push origin master  推送
 git pull origin master  更新
+
+你不好
