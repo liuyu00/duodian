@@ -11,3 +11,7 @@ git的使用
 6，git保存的记录是可以进行后退前进的
 
 git 是管理修改的
+
+远程
+git push origin master  推送
+git pull origin master  更新
